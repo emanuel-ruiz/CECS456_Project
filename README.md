@@ -5,8 +5,9 @@ Group Members
 Iyad Aboul Hosn  
 Hagop Tanashian  
 Emanuel Ruiz  
-Main Branch Contains Emanuel Ruiz's colab file  
-The other two Branches are named after the authors of the code in it. 
+
+There are three Branches, each named after the creator of the code  
+
 
 
 
